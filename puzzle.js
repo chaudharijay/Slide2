@@ -8,7 +8,7 @@ var otherTile; //blank tile
 var turns = 0;
 
 // var imgOrder = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
-var imgOrder = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
+var imgOrder = ["3", "1", "4", "6", "5", "9", "7", "8", "2"];
 
 window.onload = function() {
     for (let r=0; r < rows; r++) {
